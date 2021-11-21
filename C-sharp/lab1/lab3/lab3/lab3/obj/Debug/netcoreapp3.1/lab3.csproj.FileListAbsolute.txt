@@ -1,0 +1,13 @@
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab3\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).exe
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).deps.json
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).runtimeconfig.json
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).runtimeconfig.dev.json
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).dll
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\bin\Debug\netcoreapp3.1\lab2(попытка 2).pdb
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).csprojAssemblyReference.cache
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).AssemblyInfoInputs.cache
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).AssemblyInfo.cs
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).csproj.CoreCompileInputs.cache
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).dll
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).pdb
+D:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2(попытка 2)\lab2(попытка 2)\obj\Debug\netcoreapp3.1\lab2(попытка 2).genruntimeconfig.cache

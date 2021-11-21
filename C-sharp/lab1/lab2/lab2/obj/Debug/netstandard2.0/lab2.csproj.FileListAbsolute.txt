@@ -1,0 +1,9 @@
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\bin\Debug\netstandard2.0\lab2.deps.json
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\bin\Debug\netstandard2.0\lab2.dll
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\bin\Debug\netstandard2.0\lab2.pdb
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.csprojAssemblyReference.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.AssemblyInfoInputs.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.AssemblyInfo.cs
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.csproj.CoreCompileInputs.cache
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.dll
+d:\Users\Александр\Desktop\repository github ira\C-sharp\lab1\lab2\lab2\obj\Debug\netstandard2.0\lab2.pdb

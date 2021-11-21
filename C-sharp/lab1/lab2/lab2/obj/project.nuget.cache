@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHUi3u4dKa0TTEO/MmVzkXeIfeqZEG1hoULbjIRe0XnV1t9r9Qr10+6r+8Jt8A6Q85fCKEiyWFGebLvCi3Fn9g==",
+  "success": true,
+  "projectFilePath": "d:\\Users\\Александр\\Desktop\\repository github ira\\C-sharp\\lab1\\lab2\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
