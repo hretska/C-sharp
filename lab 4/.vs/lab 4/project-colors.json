@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9dc756c1-bc4c-4907-ae4d-5092d19a0d8e": {
+      "ProjectGuid": "9dc756c1-bc4c-4907-ae4d-5092d19a0d8e",
+      "DisplayName": "lab 4",
+      "ColorIndex": 0
+    },
+    "a28af16b-dea5-46a2-a8b4-c6f1c75199a5": {
+      "ProjectGuid": "a28af16b-dea5-46a2-a8b4-c6f1c75199a5",
+      "DisplayName": "lab 4 register",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

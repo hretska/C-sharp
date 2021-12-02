@@ -1,0 +1,15 @@
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\lab 4 register.exe
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\lab 4 register.deps.json
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\lab 4 register.runtimeconfig.json
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\lab 4 register.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\ref\lab 4 register.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\bin\Debug\net6.0\lab 4 register.pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.csproj.AssemblyReference.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.AssemblyInfoInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.AssemblyInfo.cs
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.csproj.CoreCompileInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\ref\lab 4 register.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 4\lab 4 register\obj\Debug\net6.0\lab 4 register.genruntimeconfig.cache
