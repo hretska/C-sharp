@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace lab7
+namespace lab8
 {
     class Program
     {
@@ -19,14 +19,14 @@ namespace lab7
                 string filename = Console.ReadLine();
                 string publicPath = "C:/repository-github-ira/GitHub/C-sharp/lab 8/lab 8/" + filename + ".xml";
                 var encText = EncryptData(textToEncrypt, publicPath);
-                File.WriteAllBytes("C:/repository-github-ira/GitHub/C-sharp/lab 8/lab 8/to-" + filename + ".dat", encText);
+                File.WriteAllBytes("C:/repository-github-ira/GitHub/C-sharp/lab 8/lab 8/" + filename + ".dat", encText);
                 Console.WriteLine("Encrypted message: " + Convert.ToBase64String(encText));
             }
             else if (i == "2")
             {
                 Console.WriteLine("Please enter the name of the file with the message: ");
                 string filename = Console.ReadLine();
-                string publicPath = "C:/repository-github-ira/GitHub/C-sharp/lab 8/lab 8/to-" + filename + ".dat";
+                string publicPath = "C:/repository-github-ira/GitHub/C-sharp/lab 8/lab 8/" + filename + ".dat";
                 var encText = File.ReadAllBytes(publicPath);
                 var decText = DecryptData(encText);
                 Console.WriteLine("Decrypted message: " + Encoding.UTF8.GetString(decText));

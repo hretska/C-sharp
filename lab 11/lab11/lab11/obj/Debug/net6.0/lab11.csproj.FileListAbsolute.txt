@@ -1,0 +1,15 @@
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\lab11.exe
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\lab11.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\ref\lab11.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 11\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache

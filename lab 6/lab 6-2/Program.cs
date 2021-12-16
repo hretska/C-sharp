@@ -66,7 +66,7 @@ namespace lab6_2
         }
         public static byte[] Hash(byte[] pass, byte[] salt, int length)
         {
-            using (var rfc = new Rfc2898DeriveBytes(pass, salt, 130000))
+            using (var rfc = new Rfc2898DeriveBytes(pass, salt, 80000))
             {
                 return rfc.GetBytes(length);
             }
